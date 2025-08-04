@@ -1,0 +1,1 @@
+options.sites.hideSets := addToList(typo3/fluid-styled-content)

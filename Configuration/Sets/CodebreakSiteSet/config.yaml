@@ -1,0 +1,7 @@
+name: site-sets/codebreak-site-set
+label: CodeBreak Site Set Example
+# hidden: true
+settings:
+  website:
+    background:
+      color: '#104252'
