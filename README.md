@@ -4,7 +4,7 @@
 
 Implements the basic structure and functionality of a site set in TYPO3.
 
-1.0.0: Basic explanation and use case for site sets in TYPO3.
+1.0.0: Basic explanation and use case for site sets in TYPO3
 
 ## Installation
 
