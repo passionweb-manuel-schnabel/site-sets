@@ -8,6 +8,8 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.1.0: Site set definition and hidden site sets
 
+1.2.0: Extended site settings definition with additional properties
+
 ## Installation
 
 Add via composer:
