@@ -1,0 +1,24 @@
+#
+# Include the desired TypoScript for the site package
+#
+
+config {
+    # Spam protect --> info@email.de => info(at)email.de
+    spamProtectEmailAddresses = 2
+    spamProtectEmailAddresses_atSubst = (at)
+}
+
+lib.contentElement.settings.responsiveimages.variants {
+  default.width = 1920
+  xlarge.width = 1400
+  large.width = 1200
+  medium.width = 992
+  small.width = 768
+  extrasmall.width = 576
+}
+
+page {
+    includeCSS {
+        theme = EXT:site_sets/Resources/Public/Scss/theme.scss
+    }
+}

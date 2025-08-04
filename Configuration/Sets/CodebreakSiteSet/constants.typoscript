@@ -1,0 +1,20 @@
+#
+# Include the desired TypoScript for the site package
+#
+
+page {
+    theme {
+        language.enable = 0
+        breadcrumb.enable = 0
+        meta.navigationType = directory
+        meta.navigationValue =
+        cookieconsent.enable = 0
+        copyright.enable = 0
+    }
+}
+
+config {
+    headerComment = CodeBreak Site Set
+    compressJs = 1
+    compressCss = 1
+}
