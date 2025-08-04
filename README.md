@@ -12,6 +12,8 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.3.0: Overwriting existing settings through settings.yaml
 
+1.4.0: Added example TypoScript included by Page TSconfig provider in site set
+
 ## Installation
 
 Add via composer:
