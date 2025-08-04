@@ -1,0 +1,10 @@
+TCEMAIN {
+  # set default permission for groups/users
+  permissions.groupid = 1
+  permissions.user = show, editcontent, edit, delete, new
+  permissions.group = show, editcontent, edit, delete, new
+  permissions.everybody =
+
+  # disable copy comment
+  table.tt_content.disablePrependAtCopy = 1
+}
