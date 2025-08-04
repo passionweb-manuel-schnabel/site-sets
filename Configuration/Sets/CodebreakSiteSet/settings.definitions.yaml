@@ -1,0 +1,32 @@
+categories:
+    Codebreak:
+        label: CodeBreak
+    Codebreak.settings:
+        label: CodeBreak Settings
+        parent: Codebreak
+
+settings:
+  codebreakSite.codebreakTemplates:
+    label: CodeBreak Templates
+    category: Codebreak.settings
+    type: string
+    description: Set a custom path for the CodeBreak templates.
+    default: 'EXT:site-set-example/Resources/Private/Templates/'
+  codebreakSite.codebreakPartials:
+    label: CodeBreak Partials
+    category: Codebreak.settings
+    type: string
+    description: Set a custom template for the CodeBreak partials.
+    default: 'EXT:site-set-example/Resources/Private/Partials'
+  codebreakSite.codebreakLayouts:
+    label: CodeBreak Layouts
+    category: Codebreak.settings
+    type: string
+    description: Set a custom template for the CodeBreak layouts.
+    default: 'EXT:site-set-example/Resources/Private/Layouts'
+  codebreakSite.availableKeywords:
+    type: stringlist
+    default: ['TYPO3', 'Shopware', 'Playwright', 'Misc']
+    category: Codebreak.settings
+    label: 'Available Keywords for CodeBreaks'
+    description: 'Add keywords to the CodeBreaks to filter them in the CodeBreaks overview.'
