@@ -1,0 +1,5 @@
+styles.content.defaultHeaderType: 123
+
+plugin.bootstrap_package.settings.scss.primary: '#007bff'
+
+page.theme.meta.navigationValue: 41

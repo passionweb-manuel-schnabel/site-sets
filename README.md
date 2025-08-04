@@ -10,6 +10,8 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.2.0: Extended site settings definition with additional properties
 
+1.3.0: Overwriting existing settings through settings.yaml
+
 ## Installation
 
 Add via composer:
