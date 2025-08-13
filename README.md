@@ -18,6 +18,8 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.6.0: Added some site sets including cross extension usage
 
+1.7.0: Inspect available site sets via the site:sets:list command
+
 ## Installation
 
 Add via composer:
