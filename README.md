@@ -20,6 +20,8 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.7.0: Inspect available site sets via the site:sets:list command
 
+1.8.0: Added PHP API usage through Controller
+
 ## Installation
 
 Add via composer:
