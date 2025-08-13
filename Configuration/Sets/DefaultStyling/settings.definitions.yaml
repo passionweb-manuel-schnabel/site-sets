@@ -1,0 +1,34 @@
+categories:
+  colorScheme:
+    label: Color Scheme
+  fontSettings:
+    label: Font Settings
+
+
+settings:
+  colorScheme.primary:
+    label: Primary
+    category: colorScheme
+    type: color
+    default: '#317297'
+  colorScheme.secondary:
+    label: Secondary
+    category: colorScheme
+    type: color
+    default: '#FF20FF'
+
+  fontSettings.fontFamily:
+    label: Font Family
+    category: fontSettings
+    type: string
+    default: 'Arial, sans-serif'
+  fontSettings.fontSize:
+    label: Font Size
+    category: fontSettings
+    type: string
+    default: '16px'
+  fontSettings.fontWeight:
+    label: Font Weight
+    category: fontSettings
+    type: string
+    default: 'normal'

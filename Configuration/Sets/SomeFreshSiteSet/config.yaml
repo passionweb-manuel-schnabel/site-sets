@@ -1,0 +1,7 @@
+name: site-sets/some-fresh-site-set
+label: Some Fresh Site Set Configuration
+# hidden: true
+settings:
+  website:
+    background:
+      color: '#FF20FF'

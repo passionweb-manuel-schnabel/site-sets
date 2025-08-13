@@ -14,7 +14,9 @@ Implements the basic structure and functionality of a site set in TYPO3.
 
 1.4.0: Added example TypoScript included by TypoScript provider in site set
 
-1.4.0: Added example page.tsconfig loaded by Page TSconfig provider
+1.5.0: Added example page.tsconfig loaded by Page TSconfig provider
+
+1.6.0: Added some site sets including cross extension usage
 
 ## Installation
 

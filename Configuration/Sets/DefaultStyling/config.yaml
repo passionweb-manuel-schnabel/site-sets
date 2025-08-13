@@ -1,0 +1,7 @@
+name: site-sets/default-styling
+label: Default Styling Configuration
+# hidden: true
+settings:
+  website:
+    background:
+      color: '#317297'

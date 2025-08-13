@@ -11,19 +11,19 @@ settings:
     category: Codebreak.settings
     type: string
     description: Set a custom path for the CodeBreak templates.
-    default: 'EXT:site-set-example/Resources/Private/Templates/'
+    default: 'EXT:site-sets/Resources/Private/Templates/'
   codebreakSite.codebreakPartials:
     label: CodeBreak Partials
     category: Codebreak.settings
     type: string
     description: Set a custom template for the CodeBreak partials.
-    default: 'EXT:site-set-example/Resources/Private/Partials'
+    default: 'EXT:site-sets/Resources/Private/Partials'
   codebreakSite.codebreakLayouts:
     label: CodeBreak Layouts
     category: Codebreak.settings
     type: string
     description: Set a custom template for the CodeBreak layouts.
-    default: 'EXT:site-set-example/Resources/Private/Layouts'
+    default: 'EXT:site-sets/Resources/Private/Layouts'
   codebreakSite.availableKeywords:
     type: stringlist
     default: ['TYPO3', 'Shopware', 'Playwright', 'Misc']

@@ -1,0 +1,7 @@
+settings:
+  codebreakSite.availableHashtags:
+    type: stringlist
+    default: ['New', 'Trending', 'For Fun', 'Helpful']
+    category: Codebreak.settings
+    label: 'Available Hashtags for CodeBreaks'
+    description: 'Add hashtags to the CodeBreaks.'

@@ -1,0 +1,20 @@
+categories:
+    socialLinks:
+        label: Social Links
+
+settings:
+  socialLinks.facebook:
+    label: Facebook
+    category: socialLinks
+    type: string
+    default: 'https://www.facebook.com/yourpage'
+  socialLinks.twitter:
+    label: Twitter/X
+    category: socialLinks
+    type: string
+    default: 'https://twitter.com/yourprofile'
+  socialLinks.instagram:
+    label: Instagram
+    category: socialLinks
+    type: string
+    default: 'https://www.instagram.com/yourprofile'
